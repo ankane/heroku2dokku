@@ -4,7 +4,7 @@ Heroku -> Dokku in minutes
 
 ## Installation
 
-*You should already have Dokku set up on a server*
+*You should already have Dokku set up on a server - see [this guide](https://github.com/ankane/shorts/blob/master/Dokku-Digital-Ocean.md) for instructions for DigitalOcean*
 
 Install the official Dokku client
 
