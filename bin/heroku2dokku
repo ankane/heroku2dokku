@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "heroku2dokku"
+Heroku2Dokku::Client.new.run(ARGV)
