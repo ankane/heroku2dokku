@@ -67,3 +67,21 @@ And update your config
 ```
 dokku config:set DATABASE_URL=postgres://...
 ```
+
+## Contributing
+
+Everyone is encouraged to help improve this project. Here are a few ways you can help:
+
+- [Report bugs](https://github.com/ankane/heroku2dokku/issues)
+- Fix bugs and [submit pull requests](https://github.com/ankane/heroku2dokku/pulls)
+- Write, clarify, or fix documentation
+- Suggest or add new features
+
+To get started with development:
+
+```sh
+git clone https://github.com/ankane/heroku2dokku.git
+cd heroku2dokku
+bundle install
+bundle exec rake test
+```
